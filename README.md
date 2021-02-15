@@ -1,2 +1,2 @@
-# TaipeiQA-
-TaipeiQA 
+# TaipeiQA
+TaipeiQA: a QA dataset
